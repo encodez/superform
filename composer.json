@@ -1,0 +1,15 @@
+{
+    "name": "encodez/superform",
+    "description": "Advanced form processing for phalcon framework inspired by Laravel and Zend forms",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Muneer Shaheed",
+            "email": "muneer@live.it"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Encodez\\Superform\\": "src/Encodez/Superform/" }
+    },
+    "require": {}
+}
