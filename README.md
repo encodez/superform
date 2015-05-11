@@ -37,13 +37,13 @@ class ClientForm extends Form
         ];
     }
 
-    /* TODO: Add sanitizers
+    /* TODO: Add sanitizers*/
     function getFilters()
     {
         return [
             'client_name' => 'trim'
         ];
-    }*/
+    }
 
     function getCustomMessages()
     {
